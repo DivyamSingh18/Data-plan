@@ -1,0 +1,38 @@
+section{
+	margin: 0px 514px;
+	box-shadow: 0px 4px 6px grey;
+	font-family: Arial Narrow;
+}
+
+body{
+	color: white;
+}
+
+#a{
+	font-size:120%;
+	background-color:#589fd1;
+	height: 35px;
+	padding-top: 15px;
+	width: 322px;
+	text-align: center;
+}
+#b{
+	background-color: #75b1ff;
+	
+	padding: 40px 80px;
+	width: 162px;
+	height: 60px;
+	font-size: 200%; 
+	
+}
+
+#main{
+	color: black;
+	
+	width:322px;
+	height: 240px;
+	line-height: 270%;
+	
+
+}
+
